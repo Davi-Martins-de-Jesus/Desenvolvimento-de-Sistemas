@@ -1,9 +1,9 @@
 {
-  "name": "daviaplicativo",
-  "version": "1.0.0",
-  "main": "dist/bundle.js",
   "scripts": {
-    "test": "jest",
-    "build": "webpack"
+    "test": "jest"
+  },
+  "dependencies": {
+    "expo": "^55.0.8",
+    "jest": "^30.3.0"
   }
 }
